@@ -1,0 +1,17 @@
+.game-form fieldset {
+	border: none;
+}
+
+.game-form form input,
+.game-form form button {
+	font-size: 25px;
+	padding: 5px;
+	border: none;
+}
+
+.game-form form button {
+	background-color: #e64c65;
+	color: #fff;
+}
+
+

@@ -1,0 +1,31 @@
+.game-score ul {
+	list-style-type: none;
+}
+
+.game-score > div {
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.game-score h2 {
+	margin: 10px 0;
+	font-size: ;
+}
+
+.game-score .hint {
+	background-color: #cc324b;
+	height: 50px;
+}
+
+.game-score .guesses {
+	background-color: #11a8ab;
+	height: 50px;
+}
+
+.game-score ul li {
+	padding: 5px;
+	background-color: #1a4e95;
+	display: inline-block;
+	margin: 10px;
+}
